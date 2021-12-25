@@ -42,6 +42,7 @@ function configure_server() {
 	sed "s/USERNAME/$USER/g" start_gunicorn.sh > start
 	sed -i "s/PROJECTNAME/$PROJECTNAME/g" start
 	mv start /home/$USER/$PROJECTNAME/bin/start_gunicorn.sh
+	chmod +x /home/$USER/$PROJECTNAME/bin/start_gunicorn.sh
 
 	cd "$CONFIGSPATH/gunicorn"
 	sed "s/USERNAME/$USER/g" gunicorn_config.py > gunicorn
