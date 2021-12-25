@@ -1,4 +1,3 @@
-########################################
 		ABOUT		       
 
 I writed this script for economy your time that you
@@ -9,7 +8,6 @@ be finish all work for you =)
 
 
 
-#########################################
 		INSTRUCTION		
 
 1. You need to clone this repository using this command:
@@ -23,7 +21,6 @@ be finish all work for you =)
 
 
 
-#########################################
 		WARNING!		
 
 It's very important to give real name of your Django
@@ -33,5 +30,4 @@ same name, what you entered, when you typing command:
 
 
 
-#########################################
 		THANK YOU		
