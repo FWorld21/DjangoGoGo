@@ -1,6 +1,5 @@
 ########################################
-#		ABOUT		       #
-########################################
+		ABOUT		       
 
 I writed this script for economy your time that you
 wasted on configuring server for django site. All
@@ -11,8 +10,8 @@ be finish all work for you =)
 
 
 #########################################
-#		INSTRUCTION		#
-#########################################
+		INSTRUCTION		
+
 1. You need to clone this repository using this command:
 	git clone https://github.com/FWorld21/DjangoGoGo.git
 
@@ -25,8 +24,8 @@ be finish all work for you =)
 
 
 #########################################
-#		WARNING!		#
-#########################################
+		WARNING!		
+
 It's very important to give real name of your Django
 project when you using DjangoGoGo. You must enter
 same name, what you entered, when you typing command:
@@ -35,5 +34,4 @@ same name, what you entered, when you typing command:
 
 
 #########################################
-#		THANK YOU		#
-#########################################
+		THANK YOU		
